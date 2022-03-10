@@ -1,59 +1,51 @@
-## Introduction
+To create a cardboard push switch you will need:
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
++ Thin card or thick paper
++ A pair of scissors
++ Aluminium foil or conductive tape
++ A glue stick
++ Sticky tape
++ Pin - Socket jumper wires (2 for each switch)
 
-### What you will make
+**Optional:**
++ A pencil and ruler (if you want to be more precise with your make)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+[Image of a4 card sheet, scissors, foil, conductive tape, glue stick and jumper wires]()
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+**Instructions:**
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+**Step 1:** Take your piece of card and fold it in half lengthways.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+[Image of a4 card sheet folded in half lengthways]()
 
-+ A computer or tablet capable of running Scratch 3
+**Step 2:** Make snips with your scissors in one side of the folded card, cutting only up to the fold line. These will be our different buttons. In the example here, we are making four buttons.
 
-### Software
+[Image of a4 card sheet folded in half lengthways with three cuts made in one side]()
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+**Step 3:** Fold the 'buttons' over. Take your aluminium foil and glue stick (or conductive tape) and stick a strip to the upward facing side on each of the folded 'buttons'. Making sure that you start at the fold and run the strip up and over the top edge of the button, then down the other side:
 
-### Downloads
+Repeat for each button you have cut.
 
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+GIF HERE
 
---- /collapse ---
+**Step 4:** Fold the buttons out flat. Add a cross piece of foil or tape to the inside of each button so it makes a 'T' shape. This will make sure we get a good contact when we press the button.
 
---- collapse ---
----
-title: What you will learn
----
+[Image of a4 card sheet folded in half lengthways]()
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+**Step 5:** With the buttons still folded flat, stick another piece of foil or tape for each button to the upper half of your card. Start at the fold and go up and over the edge of the card, and down the back. Make sure that the two pieces of conductive material **do not touch one another** at the fold, or you will create a *short circuit* and the button will think it's always pressed. 
 
---- /collapse ---
+[Image of a4 card sheet folded in half lengthways]()
 
---- collapse ---
----
-title: Additional information for educators
----
+**Step 6:** Turn the card over so the folded side is down. Take your socket-pin jumper wires and poke the pin end through the end of the foil or tape on the front of the buttons, securing it with more conductive tape or some sticky tape.
 
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
+[Image of a4 card sheet folded in half lengthways]()
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
+**Step 7:** Take another piece of conductive material and stick it down lengthways across the card, making sure you touch all the other pieces of conductive material on the back. This will allow you to use a single ground pin for your button array. Take another socket-pin jumper wire and poke the pin end through the end of the foil or tape just added, securing it with more conductive tape or some sticky tape.
 
---- /collapse ---
+[Image of a4 card sheet folded in half lengthways]()
+
+**Step 8:** Connect the socket ends of your jumper wires to the pins on your device - this should be one numbered pin for each button and a single ground pin for the jumper wire on the end. (Here you can see the buttons connected to pins 16,17,18 and 19 on a Raspberry pi Pico.)
+
+[Image of a4 card sheet folded in half lengthways]()
+
+
