@@ -47,7 +47,7 @@ Repeat for each button you have cut.
 
 ![Image of a4 card sheet folded in half lengthways, showing conductive tape crossing all other pieces of tape on the back side of the cardboard connected to a jumper cable which is taped down](images/6.jpeg)
 
-**Step 8:** Connect the socket ends of your jumper wires to the pins on your device - this should be one numbered pin for each button and a single ground pin for the jumper wire on the end. (Here you can see the buttons connected to pins 16,17,18 and 19 on a Raspberry pi Pico.)
+**Step 8:** Connect the socket ends of your jumper wires to the pins on your device - this should be one numbered pin for each button and a single ground pin for the jumper wire on the end. (Here you can see the buttons connected to pins 16, 17, 18 and 19 on a Raspberry pi Pico, ready to be used.)
 
 ![Image showing button array connected via jumper cables to a raspberry pi Pico.](images/7.jpeg)
 
