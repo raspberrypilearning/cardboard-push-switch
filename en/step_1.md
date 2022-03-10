@@ -36,13 +36,14 @@ Repeat for each button you have cut.
 
 ![Gif showing how to attach conductive tape to the back side of the button array cardboard](images/backtape.gif)
 
+**Step 6:** Turn the card over so the folded side is down. Take your socket-pin jumper wires and poke the pin end through the end of the foil or tape on the front of the buttons, securing it with more conductive tape or some sticky tape.
+
 ![Image of pin end of jumper cables taped down against the end of the conductive tape](images/4.jpeg)
 
-**Step 6:** Turn the card over so the folded side is down. Take your socket-pin jumper wires and poke the pin end through the end of the foil or tape on the front of the buttons, securing it with more conductive tape or some sticky tape.
+**Step 7:** Take another piece of conductive material and stick it down lengthways across the card, making sure you touch all the other pieces of conductive material on the back. This will allow you to use a single ground pin for your button array. Take another socket-pin jumper wire and poke the pin end through the end of the foil or tape just added, securing it with more conductive tape or some sticky tape.
 
 ![Image of a4 card sheet folded in half lengthways, showing conductive tape crossing all other pieces of tape on the back side of the cardboard](images/5.jpeg)
 
-**Step 7:** Take another piece of conductive material and stick it down lengthways across the card, making sure you touch all the other pieces of conductive material on the back. This will allow you to use a single ground pin for your button array. Take another socket-pin jumper wire and poke the pin end through the end of the foil or tape just added, securing it with more conductive tape or some sticky tape.
 
 ![Image of a4 card sheet folded in half lengthways, showing conductive tape crossing all other pieces of tape on the back side of the cardboard connected to a jumper cable which is taped down](images/6.jpeg)
 
